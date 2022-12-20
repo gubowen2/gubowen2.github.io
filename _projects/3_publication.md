@@ -2,7 +2,7 @@
 layout: page
 title: publication 3
 description: Broad Awareness of Unseen Work on a Concurrency-based Assignment
-img: assets/img/broad.jpg
+img: assets/img/Broad.jpg
 importance: 2
 category: 2021
 ---
