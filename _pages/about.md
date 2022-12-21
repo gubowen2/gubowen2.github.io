@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
 subtitle: Student at Harvard T.H. Chan School of Public Health
 
 profile:
