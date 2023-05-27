@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: Experimental Study of PAGA and COVID-19 Patient Classification
-img: assets/img/PAGA.jpg
+img: assets/img/UNC.jpg
 importance: 1
 category: Computer Science
 ---

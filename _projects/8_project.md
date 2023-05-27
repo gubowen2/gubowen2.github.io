@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: Compare Estimators Originated from Real-Wrold Problems
-img: assets/img/HSPH.jpg
+img: assets/img/Harvard.jpg
 importance: 2
 category: Data Science
 ---

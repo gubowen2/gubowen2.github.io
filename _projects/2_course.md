@@ -3,7 +3,7 @@ layout: page
 title: BST 262
 description: Computing for Big Data
 img: assets/img/Harvard.jpg
-importance: 3
+importance: 5
 category: Harvard University
 ---
 

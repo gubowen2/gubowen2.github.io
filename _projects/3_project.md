@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: An Introduction to Hyperfine Structure of Hydrogen
-img: assets/img/hydrogen.jpg
+img: assets/img/UNC.jpg
 importance: 1
 category: Physics
 ---

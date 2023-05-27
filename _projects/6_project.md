@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: The Role of Activity & Youth on the MKS-M∗ Relation
-img: assets/img/MKS.jpg
+img: assets/img/UNC.jpg
 importance: 4
 category: Physics
 ---

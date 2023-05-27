@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: 2024 Presidential Election Prediction
-img: assets/img/prediction.jpg
+img: assets/img/Harvard.jpg
 importance: 1
 category: Data Science
 ---

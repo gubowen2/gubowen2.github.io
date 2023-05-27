@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: Computer Simulation of Nemesis’s Effect on Earth
-img: assets/img/Nemesis.jpg
+img: assets/img/UNC.jpg
 importance: 2
 category: Physics
 ---

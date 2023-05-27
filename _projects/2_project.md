@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: Wannacry Ransomware Virus - Analysis and Prevention
-img: assets/img/Wannacry.jpg
+img: assets/img/UNC.jpg
 importance: 2
 category: Computer Science
 ---

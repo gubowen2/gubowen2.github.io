@@ -3,7 +3,7 @@ layout: page
 title: BST 222
 description: Basics of Statistical Inference
 img: assets/img/Harvard.jpg
-importance: 1
+importance: 2
 category: Harvard University
 ---
 

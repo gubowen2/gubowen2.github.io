@@ -3,7 +3,7 @@ layout: page
 title: BST 260
 description: Introduction to Data Science
 img: assets/img/Harvard.jpg
-importance: 2
+importance: 3
 category: Harvard University
 ---
 

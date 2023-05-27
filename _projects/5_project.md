@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: Structure in The APOGEE/Cannon Stars
-img: assets/img/APOGEE.jpg
+img: assets/img/UNC.jpg
 importance: 3
 category: Physics
 ---
