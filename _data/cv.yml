@@ -13,14 +13,14 @@
   contents:
     - title: Master of Science in Health Data Science
       institution: Harvard University, Boston, MA, United States
-      year: 2022 - present
+      year: Aug. 2022 - present
       description:
         - GPA 4.00 / 4.00
         - Study Computer Science at Massachusetts Institute of Technology during enrollment at Harvard University
         - MIT Computer Science and Artificial Intelligence Laboratory (MIT CSAIL) affiliate
     - title: Bachelor of Science in Computer Science & Physics – Astrophysics Option
       institution: University of North Carolina at Chapel Hill, Chapel Hill, NC, United States
-      year: 2018 - 2022
+      year: Aug. 2018 - May. 2022
       description:
         - GPA 3.99 / 4.00
 
@@ -29,7 +29,7 @@
   contents:
     - title: Data Science Intern
       institution: Mayo Clinic, Department of Otolaryngology - ENT- Head and Neck Surgery
-      year: 2023 - 2023
+      year: Jun. 2023 - present
       description:
         - title: Automating Data Abstraction for the Generation of Clinical Registries
           contents:
@@ -41,7 +41,7 @@
             - Designed a system that was projected to automate 63% and 25% of the Rhinology and Otology appointments, collaborated with two data scientists at Mayo Clinic, and presented the outcomes to the chief physicians of the Rhinology and Otology division.
     - title: Data Science Research Assistant
       institution: Dana-Farber Cancer Institute, Department of Data Science
-      year: 2023 - 2023
+      year: Jul. 2023 - present
       description:
         - title: Annotation of ECOG PS from Unstructured Oncology Notes and Survivability Analysis
           contents:
@@ -49,7 +49,7 @@
             - Developed a model with 95.5% accuracy, found strong correlation between ECOG PS and survival outcomes, worked with two medical oncologists and one data scientist at Dana-Farber, and drafted a research paper.
     - title: Data Science Research Trainee
       institution: Brigham and Women's Hospital, Department of Medicine
-      year: 2023 - 2023
+      year: Aug. 2023 - present
       description:
         - title: Extract Patient Entities from Free-Text EHR Data Using NLP Models
           contents:
@@ -57,7 +57,7 @@
             - Worked under the guidance of one epidemiologist and one data scientist at Brigham, and presented during the weekly group meetings.
     - title: Research Assistant (Computer Science)
       institution: University of North Carolina at Chapel Hill
-      year: 2020 - 2022
+      year: Aug. 2020 - May. 2022
       description:
         - title: Towards a Comprehensive AI Teaching Assistant Based on Course Forums
           contents:
@@ -73,7 +73,7 @@
             - Collaborated on team of 6 and published a paper on The Workshop on Education for High Performance Computing.
     - title: Research Assistant (Physics)
       institution: University of North Carolina at Chapel Hill
-      year: 2020 - 2022
+      year: Aug. 2020 - May. 2022
       description:
         - title: The Role of Activity & Youth on the M_KS-M_* Relation
           contents:
