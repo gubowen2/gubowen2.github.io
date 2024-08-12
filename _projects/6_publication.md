@@ -20,5 +20,3 @@ Results LiricLR and LiricNN (GP) achieved test set AUCs of AUC=0.8968 (95% CI: 0
 Conclusions Liric models utilize routine EHR data to accurately predict risk of HCC development. Their scalability, generalizability, and interpretability set the stage for future clinical deployment and the design of more effective screening programs.
 
 The full paper is available at <a href="https://www.medrxiv.org/content/10.1101/2024.05.28.24307949v1">medRxiv</a>.
-
-An illustration video (10 mins) is available <a href="https://youtu.be/LHW6At4wf34">here</a>.
