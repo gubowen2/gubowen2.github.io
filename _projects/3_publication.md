@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publication 3
+title: publication 2
 description: Broad Awareness of Unseen Work on a Concurrency-based Assignment
 img: assets/img/Broad.jpg
 importance: 2
 category: 2021
 ---
 
-Authors: Prasun Dewan, Samuel George, Bowen Gu, Zhizhou Liu, Hao Wang, and Andrew Wortas
+Authors: Prasun Dewan, Samuel George, **Bowen Gu**, Zhizhou Liu, Hao Wang, and Andrew Wortas
 
 Published on: The 3rd Workshop on Education for High 
 Performance Computing (EduHiPC 2021)

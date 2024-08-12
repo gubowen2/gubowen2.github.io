@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publication 6
+title: publication 3
 description: LIRIC predicts Hepatocellular Carcinoma risk in the diverse U.S. population using routine clinical data
 img: assets/img/LIRIC predicts Hepatocellular Carcinoma risk in the diverse U.S. population using routine clinical data.jpg
 importance: 3
 category: 2024
 ---
 
-Authors: Kai Jia, Bowen Gu, Pasapol Saowakon, Steven Kundrot, Matvey B. Palchuk, Jeff Warnick, Irving D. Kaplan, Martin Rinard, Limor Appelbaum
+Authors: Kai Jia, **Bowen Gu**, Pasapol Saowakon, Steven Kundrot, Matvey B. Palchuk, Jeff Warnick, Irving D. Kaplan, Martin Rinard, Limor Appelbaum
 
 Published on: medRxiv
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publication 5
+title: publication 2
 description: Scalable information extraction from free text electronic health records using large language models
 img: assets/img/Scalable information extraction from free text electronic health records using large language models.png
 importance: 2
 category: 2024
 ---
 
-Authors: Bowen Gu, Vivian Shao, Ziqian Liao, Valentina Carducci, Santiago Romero-Brufau, Jie Yang, Rishi Desai
+Authors: **Bowen Gu**, Vivian Shao, Ziqian Liao, Valentina Carducci, Santiago Romero-Brufau, Jie Yang, Rishi Desai
 
 Published on: medRxiv
 

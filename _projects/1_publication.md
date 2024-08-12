@@ -7,7 +7,7 @@ importance: 1
 category: 2022
 ---
 
-Authors: Bowen Gu, Hao Wang, and Kaizhuo Chen
+Authors: **Bowen Gu**, Hao Wang, and Kaizhuo Chen
 
 Published on: Carolina Digital Repository
 

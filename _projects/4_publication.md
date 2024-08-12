@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publication 4
+title: publication 1
 description: Extraction and Imputation of Eastern Cooperative Oncology Group Performance Status From Unstructured Oncology Notes Using Language Models
 img: assets/img/Extraction and Imputation of Eastern Cooperative Oncology Group Performance Status From Unstructured Oncology Notes Using Language Models.jpg
 importance: 1
 category: 2024
 ---
 
-Authors: Wenxin Xu, Bowen Gu, William E Lotter, Kenneth L Kehl
+Authors: Wenxin Xu, **Bowen Gu**, William E Lotter, Kenneth L Kehl
 
 Published on: JCO Clinical Cancer Informatics
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: publication 2
+title: publication 1
 description: Automating Testing of Visual Observed Concurrency
 img: assets/img/Automating.jpg
 importance: 1
 category: 2021
 ---
 
-Authors: Prasun Dewan, Andrew Wortas, Ken Liu, Sam George, Bowen Gu, and Hao Wang
+Authors: Prasun Dewan, Andrew Wortas, Ken Liu, Sam George, **Bowen Gu**, and Hao Wang
 
 Published on: Workshop on Education for High Performance Computing
 
