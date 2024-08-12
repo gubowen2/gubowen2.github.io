@@ -2,7 +2,7 @@
 layout: page
 title: publication 6
 description: LIRIC predicts Hepatocellular Carcinoma risk in the diverse U.S. population using routine clinical data
-img: assets/img/LIRIC predicts Hepatocellular Carcinoma risk in the diverse U.S. population using routine clinical data.jpeg
+img: assets/img/LIRIC predicts Hepatocellular Carcinoma risk in the diverse U.S. population using routine clinical data.jpg
 importance: 3
 category: 2024
 ---
